@@ -1,4 +1,4 @@
-name = "mannamplace-community"
+name = "mannamplacecore"
 main = "index.js"
 compatibility_date = "2024-03-09"
 
